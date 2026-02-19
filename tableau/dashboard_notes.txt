@@ -1,0 +1,9 @@
+Dashboard Name: Claims Overview
+
+Visuals:
+- Total Claims Paid (SUM claim_amount)
+- Average Risk Score (AVG risk_score)
+- Claims by Policy (policy_id vs SUM claim_amount)
+
+Connected to Snowflake view: CLAIMS_ANALYTICS
+Published to Tableau Public using Extract.
