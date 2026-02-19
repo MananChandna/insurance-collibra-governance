@@ -1,0 +1,4 @@
+Term,Definition,Owner,Steward
+Policy_ID,Unique identifier for insurance policy,Underwriting Head,Policy Ops Lead
+Claim_Amount,Approved claim payout value,Claims Director,Claims Analytics Lead
+Risk_Score,Actuarial risk rating,Actuarial Head,Risk Analytics Manager
