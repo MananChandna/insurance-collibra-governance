@@ -1,0 +1,6 @@
+Asset_Name,Asset_Type,Domain,Owner,Steward
+CUSTOMER_TABLE,Dataset,Customer,CRM Lead,Customer Analyst
+POLICY_TABLE,Dataset,Policy,Underwriting Head,Policy Analyst
+CLAIMS_TABLE,Dataset,Claims,Claims Director,Claims Analyst
+CLAIMS_ANALYTICS,Dataset,Claims,Claims Director,Claims Analytics Lead
+Marsh Insurance Claims,Report,Claims,Claims Director,BI Lead
