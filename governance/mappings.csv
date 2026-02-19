@@ -1,0 +1,4 @@
+Physical_Column,Business_Term
+policy_id,Policy_ID
+claim_amount,Claim_Amount
+risk_score,Risk_Score
